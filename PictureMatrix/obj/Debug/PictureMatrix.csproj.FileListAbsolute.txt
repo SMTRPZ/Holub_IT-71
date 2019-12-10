@@ -1,0 +1,6 @@
+D:\My projects\PictureMatrix\PictureMatrix\obj\Debug\PictureMatrix.csprojAssemblyReference.cache
+D:\My projects\PictureMatrix\PictureMatrix\bin\Debug\PictureMatrix.exe.config
+D:\My projects\PictureMatrix\PictureMatrix\bin\Debug\PictureMatrix.exe
+D:\My projects\PictureMatrix\PictureMatrix\bin\Debug\PictureMatrix.pdb
+D:\My projects\PictureMatrix\PictureMatrix\obj\Debug\PictureMatrix.exe
+D:\My projects\PictureMatrix\PictureMatrix\obj\Debug\PictureMatrix.pdb
